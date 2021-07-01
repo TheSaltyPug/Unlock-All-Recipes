@@ -34,3 +34,8 @@ simple recipe addons. This datapack is unable to unlock those for a few reasons:
 2. I do not know its name, and it is impossible to guess or to add all of them
 3. Using `*` will only cause problems, because there is no way to excluding a single
 recipe from it (Mojang fix your game)
+
+Instead, I encourage any person that makes a recipe datapack to add their own
+function that grants all of their recipes, which solves the issue. In the future,
+I might add a special tag that they can add their function to which will run as a
+child of this datapack, but I am lazy and very few people use this anyways.
