@@ -1,0 +1,17 @@
+{
+     "criteria": {
+          "trigger": {
+               "trigger": "minecraft:tick"
+          }
+     },
+     "display": {
+          "announce_to_chat": false,
+          "description": "Unlocks all recipes in a way that doesn't break custom crafting",
+          "icon": {
+               "item": "minecraft:knowledge_book"
+          },
+          "show_toast": false,
+          "title": "Unlock All Recipes"
+     },
+     "parent": "global:tsp"
+}

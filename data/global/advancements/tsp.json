@@ -1,0 +1,18 @@
+{
+     "criteria": {
+          "trigger": {
+               "trigger": "minecraft:tick"
+          }
+     },
+     "display": {
+          "announce_to_chat": false,
+          "description": "",
+          "icon": {
+               "item": "minecraft:player_head",
+               "nbt": "{SkullOwner:{Name: \"TheSaltyPug\", Properties: {textures: [{Value: \"ewogICJ0aW1lc3RhbXAiIDogMTYyNTE1NDQ0NzI4OCwKICAicHJvZmlsZUlkIiA6ICJiYjEwMTgyYWU5NDc0YWFlYmU0YjFiODA4M2JkMGZkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVTYWx0eVB1ZyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NjRjNGVlZDQyMjZhODBlYjA5NDNiNTRlMTNlMmEzZjcwNjMyMTVmOGNlZDAyMjlhZGZhMmUxZWJlZjJhM2Y5IgogICAgfQogIH0KfQ==\"}]}}}"
+          },
+          "show_toast": false,
+          "title": "TheSaltyPug"
+     },
+     "parent": "global:root"
+}
