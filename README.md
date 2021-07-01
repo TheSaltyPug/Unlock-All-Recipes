@@ -26,3 +26,11 @@ This datapack runs every 20 seconds to check for new players that have joined
 the server/world. If it finds one, it will run down a list that grants them every
 recipe from the vanilla game. If they already have had their recipes unlocked, 
 it doesn't run on them (much optimize, such wow!).
+
+## 'Issues'
+This pack does NOT grant recipes from any datapack that is added, including
+simple recipe addons. This datapack is unable to unlock those for a few reasons:
+1. The only way to unlock the recipe is with its name, or with `*`
+2. I do not know its name, and it is impossible to guess or to add all of them
+3. Using `*` will only cause problems, because there is no way to excluding a single
+recipe from it (Mojang fix your game)
